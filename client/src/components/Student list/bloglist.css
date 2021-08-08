@@ -1,0 +1,57 @@
+.blockspreview:hover {
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  }
+.blockspreview
+{
+  
+  max-width: 400px;
+  margin-left: 22vw;
+  margin-right: 28vw;
+  width:400px;
+  padding-left: 30px;
+  padding-top: 15px;
+  text-align: left;
+  border-bottom: 1px solid #fafafa;
+  border-radius: 2vw;
+
+}
+.comp1
+{
+    display: block;
+    margin-top: 0px;
+}
+.comp1 a
+{
+  display: block;
+
+
+}
+.main1
+{
+    display: flex;
+    margin-bottom: auto;
+}
+.blockspreview h1 {
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 8px;
+  }
+.blockspreview a
+  {
+    text-decoration: none;
+  }
+.meetingbtn{
+    background-color: black;
+    padding: 12.5%;
+    width: 250px;
+    display: block;
+    font-size: large;
+    margin: 50px auto;
+    text-decoration: none;
+    text-align: center ;
+    border-radius: 5px;
+    color: #ffffff;
+}
+.meetingbtn a{
+  color: #ffffff;
+}

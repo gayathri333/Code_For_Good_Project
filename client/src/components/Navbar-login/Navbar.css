@@ -1,0 +1,18 @@
+.NGOheading{
+    display: inline;
+}
+.Logout{
+    display: flex;
+    background-color: #FCDEC0;
+}
+.navbar12{
+    display: block;
+    color: black;
+    max-width: 800px;
+    margin-left: 70vw;
+    background-color: gray;
+    padding: 1vw;
+    padding-left: 1.5vw;
+    margin-top: 1vw;
+    
+}
